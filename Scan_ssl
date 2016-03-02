@@ -6,8 +6,7 @@ require "socket"
 require "webrick"
 require 'optparse'
 
-# SSL Scanner by DRX  diewolfe@live.de
-# Thales's pentesting tool
+# SSL Scanner by DRX  Jean-Philippe.Pagadoy@bssi.fr
 
 class Scanner
     NO_SSLV2      = 16777216
